@@ -1,4 +1,4 @@
 # Suraj
 This is my first Git repository.
 <br>
-author : suraj
+author : suraj chaudhary
